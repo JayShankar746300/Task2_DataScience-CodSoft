@@ -1,4 +1,5 @@
-# Author: Jay Shankar Kumar
+# README: Movie Rating Prediction
+## Author: Jay Shankar Kumar
 ## Batch: July
 ## Domain: Data Science
 ## Aim
